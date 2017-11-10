@@ -7,8 +7,7 @@
   "scripts": {
     "test": "gulp test",
     "build": "gulp build",
-    "coveralls": "gulp coveralls",
-    "postinstall": "node_modules/.bin/bower install"
+    "coveralls": "gulp coveralls"
   },
   "author": "Jamie Le Souef <jamielesouef@gmail.com>",
   "license": "MIT",
